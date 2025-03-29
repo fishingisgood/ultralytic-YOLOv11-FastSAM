@@ -1,6 +1,7 @@
 # YOLO + FastSAM 貓咪偵測與遮罩分析工具 🐱
 
-這是一個使用 [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) 結合 [FastSAM](https://github.com/CASIA-IVA/FastSAM) 的圖像分析腳本。
+這是一個使用 Ultralytics YOLO 結合 FastSAM 的圖像分析腳本。
+[貓貓圖鑑](https://cats.com/cat-breeds)
 
 ## 🧠 功能說明
 
